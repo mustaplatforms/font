@@ -1,10 +1,10 @@
 @font-face {
     font-family: "flaticon";
-    src: url("../fonts/flaticon.ttf?e01bb08ccd7a3fe27fd2b7fcb8d62201") format("truetype"),
-url("../fonts/flaticon.woff?e01bb08ccd7a3fe27fd2b7fcb8d62201") format("woff"),
-url("../fonts/flaticon.woff2?e01bb08ccd7a3fe27fd2b7fcb8d62201") format("woff2"),
-url("../fonts/flaticon.eot?e01bb08ccd7a3fe27fd2b7fcb8d62201#iefix") format("embedded-opentype"),
-url("../fonts/flaticon.svg?e01bb08ccd7a3fe27fd2b7fcb8d62201#flaticon") format("svg");
+    src: url("https://mustaplatforms.github.io/mustapay/flaticon.ttf?e01bb08ccd7a3fe27fd2b7fcb8d62201") format("truetype"),
+url("https://mustaplatforms.github.io/mustapay/flaticon.woff?e01bb08ccd7a3fe27fd2b7fcb8d62201") format("woff"),
+url("https://mustaplatforms.github.io/mustapay/flaticon.woff2?e01bb08ccd7a3fe27fd2b7fcb8d62201") format("woff2"),
+url("https://mustaplatforms.github.io/mustapay/flaticon.eot?e01bb08ccd7a3fe27fd2b7fcb8d62201#iefix") format("embedded-opentype"),
+url("https://mustaplatforms.github.io/mustapay/flaticon.svg?e01bb08ccd7a3fe27fd2b7fcb8d62201#flaticon") format("svg");
 }
 
 span[class^="flaticon-"]:before, span[class*=" flaticon-"]:before {
